@@ -34,7 +34,7 @@ app.get("/", (req, res) => res.send("Welcome to Cindy's jank practices"));
 app.get("/members", (req, res) => {
   try {
     /**
-     * TODO Practice 3
+     * TODO Practice 1
      * - send data with res.status(...).send(...)
      */
   } catch (e) {
